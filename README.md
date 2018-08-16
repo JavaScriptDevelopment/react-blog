@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-![screenshot](./scrrenshot31.PNG)
+![screenshot](./Screenshot (31).png)
 
 
 
